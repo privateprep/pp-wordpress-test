@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependencies
+/node_modules/*
+node_modules
+cypress/videos
+cypress/screenshots

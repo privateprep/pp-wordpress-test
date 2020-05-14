@@ -1,0 +1,13 @@
+{
+  "name": "pp-wordpress-test",
+  "version": "1.0.0",
+  "description": "A cypress-based testing tool for the pp-wordpress site",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  },
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  }
+}
