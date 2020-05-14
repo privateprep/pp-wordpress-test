@@ -11,9 +11,9 @@ Are there holes? Absolutely. Fill 'em in!
 ## How does it run?
 
 1. Clone repo
-2. Run yarn install (install cypress if needed)
-3. run `yarn run cypress:open` <-- opens up UI
-4. run `yarn run cypress:run` <-- runs from command line
+1. Run yarn install
+1. run `yarn run cypress:open` <-- opens up UI
+1. run `yarn run cypress:run` <-- runs from command line
 
 ## Documentation / Help
 
