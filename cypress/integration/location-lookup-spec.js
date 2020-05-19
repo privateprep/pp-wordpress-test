@@ -1,10 +1,8 @@
 /// <reference types="cypress" />
 
 describe("Location page market lookup", function () {
-  const BASE_URL = "https://private-prep.local/"; // TODO: move me to config?
-
   beforeEach(function () {
-    cy.visit(`${BASE_URL}/locations`);
+    cy.visit(`/locations`);
   });
 
   it("grabs NYC zip code", function () {
